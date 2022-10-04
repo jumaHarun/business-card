@@ -1,4 +1,7 @@
-# cob3b42f58ed815ed3b190fdc
+# Juma Harun's Digital Business Card
+
+This is my solution to the Scrimba's Business Card Solo Project on the Frontend Carrer Path
+- Live Site: [HERE!](https://jharun-business-card.netlify.app/)
 
 ## About Scrimba
 
