@@ -1,6 +1,7 @@
 body {
     margin: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', Arial, sans-serif;
+/*     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', Arial, sans-serif; */
+    font-family: 'Della Respira', serif, sans-serif;
     background: #7400b8;
     background: -webkit-linear-gradient(to right, #5e60ce, #7400b8);
     background: linear-gradient(to right, #5e60ce, #7400b8);
